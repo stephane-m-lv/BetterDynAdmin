@@ -19,7 +19,7 @@
 //
 // ------ write version on bdaCSS TOO ! ------
 // @version 2.1
-// @resource bdaCSS bda.css?version=2.1
+// @resource bdaCSS https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.css?version=2.1
 
 // @require https://code.jquery.com/jquery-3.0.0.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.21.5/js/jquery.tablesorter.min.js
@@ -33,7 +33,7 @@
 // @require https://cdnjs.cloudflare.com/ajax/libs/vis/4.15.0/vis.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js
 // custom bootstrap
-// @require lib/bootstrap/js/bootstrap.min.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/lib/bootstrap/js/bootstrap.min.js
 // @require http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/1.7.2/jquery.textcomplete.min.js
 
@@ -47,28 +47,28 @@
 // @resource visCSS https://cdnjs.cloudflare.com/ajax/libs/vis/4.15.0/vis.min.css
 // @resource cmHint https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.19.0/addon/hint/show-hint.css
 // scoped bootstrap
-// @resource bootstrapCSS lib/bootstrap/scoped-twbs.min.css
+// @resource bootstrapCSS https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/lib/bootstrap/scoped-twbs.min.css
 // @resource typeahead-bootstrapCSS https://raw.githubusercontent.com/bassjobsen/typeahead.js-bootstrap-css/master/typeaheadjs.css
 // @resource whatsnew https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/WHATSNEW.md
 
 // -- BDA plugins after all the libraries --
-// @require bda.common.js
-// @require bda.search.js
-// @require bda.menu.js
-// @require bda.toolbar.js
-// @require bda.repository.js
-// @require bda.pipeline.js
-// @require bda.jdbc.js
-// @require bda.perfmonitor.js
-// @require bda.actor.js
-// @require bda.storage.js
-// @require bda.xmldef.js
-// @require bda.compconfig.js
-// @require bda.component.js
-// @require parser/bda.dash.line.splitter.js
-// @require parser/bda.dash.parser.js
-// @require bda.dash.js
-// @require bda.scheduler.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.common.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.search.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.menu.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.toolbar.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.repository.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.pipeline.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.jdbc.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.perfmonitor.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.actor.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.storage.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.xmldef.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.compconfig.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.component.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/parser/bda.dash.line.splitter.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/parser/bda.dash.parser.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.dash.js
+// @require https://raw.githubusercontent.com/jc7447/BetterDynAdmin/master/bda.scheduler.js
 
 // @updateUrl http://raw.githubusercontent.com/jc7447/bda/master/bda.user.js
 // @downloadUrl https://raw.githubusercontent.com/jc7447/bda/master/bda.user.js
